@@ -3,6 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
+<<<<<<< HEAD
 const RESOURCES = {".git/COMMIT_EDITMSG": "789ca238509559a9354edd206df8c49c",
 ".git/config": "d8ec5be1c1aa673a9b16189bc25d18ec",
 ".git/description": "a0a7c3fff21f2aea3cfa1d0316dd816c",
@@ -163,6 +164,9 @@ const RESOURCES = {".git/COMMIT_EDITMSG": "789ca238509559a9354edd206df8c49c",
 ".git/refs/heads/main": "fd300adbd2a0749f4f5ce99fbc0d2a3f",
 ".git/refs/remotes/origin/main": "fd300adbd2a0749f4f5ce99fbc0d2a3f",
 "assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c",
+=======
+const RESOURCES = {"assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c",
+>>>>>>> 9f824af (flutter update)
 "assets/AssetManifest.bin.json": "69a99f98c8b1fb8111c5fb961769fcd8",
 "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
@@ -181,7 +185,11 @@ const RESOURCES = {".git/COMMIT_EDITMSG": "789ca238509559a9354edd206df8c49c",
 "canvaskit/skwasm.wasm": "9f0c0c02b82a910d12ce0543ec130e60",
 "canvaskit/skwasm.worker.js": "89990e8c92bcb123999aa81f7e203b1c",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
+<<<<<<< HEAD
 "flutter_bootstrap.js": "e50e00e1f9d38d0f5510ec0deee7f498",
+=======
+"flutter_bootstrap.js": "ee19e67d3e019ebe532b1a5d9da9250d",
+>>>>>>> 9f824af (flutter update)
 "index.html": "56a1ae7678ab13da9f7734db2a000cce",
 "/": "56a1ae7678ab13da9f7734db2a000cce",
 "main.dart.js": "f3b1168e62f88d7f9bd2b400984666a9",
